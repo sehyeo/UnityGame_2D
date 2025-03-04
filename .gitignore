@@ -71,3 +71,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity 자동 생성 폴더 (Git에서 제외)
+Library/
+Temp/
+Logs/
+Obj/
+MemoryCaptures/
+.vs/
+*.csproj
+*.sln
+*.user
